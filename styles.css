@@ -1,0 +1,21 @@
+* {
+    font-family: garamond, "Brush Script MT", Georgia;
+    text-align: left;
+    background-color: rgb(51, 57, 58);
+    color: aliceblue;
+}
+
+
+.pics {
+    width: 600px;
+    height: 400px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 40px;
+}
+
+li {
+    font-size: 18px;
+}
